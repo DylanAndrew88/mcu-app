@@ -24,6 +24,150 @@
     "plot" : "Placeholder",
     "poster" : "iron-man-2.jpg",
     "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Thor",
+    "year" : "2011",
+    "cast" : ["Thor", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "thor.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Captain America: The First Avenger",
+    "year" : "2011",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "captain-america-the-first-avenger.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "The Avengers",
+    "year" : "2012",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "avengers.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Iron Man 3",
+    "year" : "2013",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "iron-man-3.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Thor: The Dark World",
+    "year" : "2013",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "thor-the-dark-world.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Captain America: The Winter Soldier",
+    "year" : "2014",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "captain-america-the-winter-soldier.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Guardians of the Galaxy",
+    "year" : "2014",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "guardians-of-the-galaxy.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Avengers: Age of Ultron",
+    "year" : "2015",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "avengers-age-of-ultron.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Ant-Man",
+    "year" : "2015",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "ant-man.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Captain America: Civil War",
+    "year" : "2016",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "captain-america-civil-war.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Doctor Strange",
+    "year" : "2016",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "doctor-strange.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Guardians of the Galaxy, Vol. 2",
+    "year" : "2017",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "guardians-of-the-galaxy-vol2.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Spider-Man: Homecoming",
+    "year" : "2017",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "spiderman-homecoming.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Thor: Ragnarok",
+    "year" : "2017",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "thor-ragnarok.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Black Panther",
+    "year" : "2018",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "black-panther.jpg",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Avengers: Infinity War",
+    "year" : "2018",
+    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "plot" : "Placeholder",
+    "poster" : "avengers-infinity-war.jpg",
+    "still_image" : "placeholder"
   }]
 
 }

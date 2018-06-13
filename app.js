@@ -5,11 +5,15 @@
   const moviesJSON = require('./movies.json');
 
   const app = express();
+  const path = require('path');
 
 
   //View Engine
   app.set('view engine', 'handlebars');
   app.engine('handlebars', expressHandlebars());
+
+  //Static path
+  app.use(express.static(path.join(__dirname, 'public')));
 
 
   //Routes
