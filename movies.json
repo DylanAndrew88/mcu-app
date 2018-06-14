@@ -2,7 +2,7 @@
   "movies": [{
     "title" : "Iron Man",
     "year" : "2008",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Obadia Stain"],
+    "cast" : ["Robert Downey, jr.", "Gwyneth Paltrow", "Terrence Howard", "Jeff Bridges"],
     "plot" : "Placeholder",
     "poster" : "iron-man.jpg",
     "still_image" : "placeholder"
@@ -11,7 +11,7 @@
   {
     "title" : "The Incredible Hulk",
     "year" : "2008",
-    "cast" : ["Bruce Banner/The Hulk", "Betty Ross", "Thaddeus 'Thunderbolt' Ross", "Emil Blonsky/Abomination"],
+    "cast" : ["Edward Norton", "William Hurt", "Liv Tyler", "Tim Roth"],
     "plot" : "Placeholder",
     "poster" : "the-incredible-hulk.jpg",
     "still_image" : "placeholder"
@@ -20,7 +20,7 @@
   {
     "title" : "Iron Man 2",
     "year" : "2010",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Robert Downey, jr.", "Gwyneth Paltrow", "Don Cheadle", "Scarlett Johanson", "Sam Rockwell", "Mickey Rourke", "Samuel L. Jackson"],
     "plot" : "Placeholder",
     "poster" : "iron-man-2.jpg",
     "still_image" : "placeholder"
@@ -29,7 +29,7 @@
   {
     "title" : "Thor",
     "year" : "2011",
-    "cast" : ["Thor", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Kat Dennings", "Stellan Skarsgard", "Anthony Hopkins"],
     "plot" : "Placeholder",
     "poster" : "thor.jpg",
     "still_image" : "placeholder"
@@ -38,7 +38,7 @@
   {
     "title" : "Captain America: The First Avenger",
     "year" : "2011",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Tony Stark", "Chris Evans", "Hayley Atwell", "Tommy Lee Jones", "Toby Jones", "Dominic Cooper", "Sebastian Stan", "Hugo Weaving", "Stanley Tucci"],
     "plot" : "Placeholder",
     "poster" : "captain-america-the-first-avenger.jpg",
     "still_image" : "placeholder"
@@ -47,7 +47,7 @@
   {
     "title" : "The Avengers",
     "year" : "2012",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Robert Downey, jr.", "Chris Evans", "Chris Hemsworth", "Scarlett Johanson", "Mark Ruffalo", "Jeremy Renner", "Samuel L. Jackson", "Tom Hiddleston"],
     "plot" : "Placeholder",
     "poster" : "avengers.jpg",
     "still_image" : "placeholder"
@@ -56,7 +56,7 @@
   {
     "title" : "Iron Man 3",
     "year" : "2013",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Robert Downey, jr.", "Gwyneth Paltrow", "Don Cheadle", "Guy Pearce", "Rebecca Hall", "Ben Kingsley"],
     "plot" : "Placeholder",
     "poster" : "iron-man-3.jpg",
     "still_image" : "placeholder"
@@ -65,7 +65,7 @@
   {
     "title" : "Thor: The Dark World",
     "year" : "2013",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Kat Dennings", "Stellan Skarsgard", "Anthony Hopkins", "Rene Russo"],
     "plot" : "Placeholder",
     "poster" : "thor-the-dark-world.jpg",
     "still_image" : "placeholder"
@@ -74,7 +74,7 @@
   {
     "title" : "Captain America: The Winter Soldier",
     "year" : "2014",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Chris Evans", "Scarlett Johanson", "Samuel L. Jackson", "Anthony Mackie", "Robert Redford", "Sebastian Stan"],
     "plot" : "Placeholder",
     "poster" : "captain-america-the-winter-soldier.jpg",
     "still_image" : "placeholder"
@@ -83,7 +83,7 @@
   {
     "title" : "Guardians of the Galaxy",
     "year" : "2014",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Lee Pace", "Karen Gillan", "Michael Rooker"],
     "plot" : "Placeholder",
     "poster" : "guardians-of-the-galaxy.jpg",
     "still_image" : "placeholder"
@@ -92,7 +92,7 @@
   {
     "title" : "Avengers: Age of Ultron",
     "year" : "2015",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Robert Downey, jr.", "Chris Evans", "Chris Hemsworth", "Scarlett Johanson", "Mark Ruffalo", "Jeremy Renner", "Elizabeth Olsen", "Aaron Taylor-Johnson", "James Spader"],
     "plot" : "Placeholder",
     "poster" : "avengers-age-of-ultron.jpg",
     "still_image" : "placeholder"
@@ -101,7 +101,7 @@
   {
     "title" : "Ant-Man",
     "year" : "2015",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Paul Rudd", "Michael Pena", "Corey Stoll", "Evangeline Lilly", "Michael Douglas"],
     "plot" : "Placeholder",
     "poster" : "ant-man.jpg",
     "still_image" : "placeholder"
@@ -110,7 +110,7 @@
   {
     "title" : "Captain America: Civil War",
     "year" : "2016",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Chris Evans", "Robert Downey, jr.", "Scarlett Johanson", "Jeremy Renner", "Elizabeth Olsen", "Sebastian Stan", "Anthony Mackie", "Tom Holland", "Paul Rudd", "Chadwick Boseman", "Daniel Bruhl"],
     "plot" : "Placeholder",
     "poster" : "captain-america-civil-war.jpg",
     "still_image" : "placeholder"
@@ -119,7 +119,7 @@
   {
     "title" : "Doctor Strange",
     "year" : "2016",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Benedict Cumberbatch", "Chiwetel Ejiofor", "Benedict Wong", "Rachel McAdams", "Tilda Swinton"],
     "plot" : "Placeholder",
     "poster" : "doctor-strange.jpg",
     "still_image" : "placeholder"
@@ -128,7 +128,7 @@
   {
     "title" : "Guardians of the Galaxy, Vol. 2",
     "year" : "2017",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Kurt Russell", "Karen Gillan", "Michael Rooker"],
     "plot" : "Placeholder",
     "poster" : "guardians-of-the-galaxy-vol2.jpg",
     "still_image" : "placeholder"
@@ -137,7 +137,7 @@
   {
     "title" : "Spider-Man: Homecoming",
     "year" : "2017",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Tom Holland", "Michael Keaton", "Marisa Tomei", "Robert Downey, jr.", "Zendaya", "Jon Favreau"],
     "plot" : "Placeholder",
     "poster" : "spiderman-homecoming.jpg",
     "still_image" : "placeholder"
@@ -146,7 +146,7 @@
   {
     "title" : "Thor: Ragnarok",
     "year" : "2017",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Chris Hemsworth", "Mark Ruffalo", "Tessa Thompson", "Tom Hiddleston", "Cate Blanchett", "Jeff Goldblum"],
     "plot" : "Placeholder",
     "poster" : "thor-ragnarok.jpg",
     "still_image" : "placeholder"
@@ -155,7 +155,7 @@
   {
     "title" : "Black Panther",
     "year" : "2018",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Chadwick Boseman", "Lupita Nyong'o", "Danai Gurira", "Letitia Wright", "Martin Freeman", "Andy Serkis", "Angela Bassett", "Forrest Whitaker", "Michael B. Jordan"],
     "plot" : "Placeholder",
     "poster" : "black-panther.jpg",
     "still_image" : "placeholder"
@@ -164,7 +164,7 @@
   {
     "title" : "Avengers: Infinity War",
     "year" : "2018",
-    "cast" : ["Tony Stark", "Pepper Potts", "Col. James Rhodes", "Natasha Romanoff", "Justin Hammer", "Ivan Vanko/Whiplash"],
+    "cast" : ["Chris Evans", "Robert Downey, jr.", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johanson", "Elizabeth Olsen", "Paul Bettany", "Sebastian Stan", "Anthony Mackie", "Tom Holland", "Chadwick Boseman", "Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Karen Gillan", "Josh Brolin"],
     "plot" : "Placeholder",
     "poster" : "avengers-infinity-war.jpg",
     "still_image" : "placeholder"
