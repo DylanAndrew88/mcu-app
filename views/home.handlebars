@@ -9,7 +9,12 @@
       <h1>{{title}}</h1>
         {{#movies}}
         <h1>{{title}}</h1>
-        <p>{{cast}}<p>
+        <h4> dir. {{director}}</h4>
+        {{#each cast}}
+        <ul>
+          <li>{{this}}</li>
+        </ul>
+        {{/each}}
         <img src="/images/{{poster}}" class="poster">
         {{/movies}}
     </body>

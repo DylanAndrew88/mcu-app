@@ -3,7 +3,7 @@
     "title" : "Iron Man",
     "year" : "2008",
     "cast" : ["Robert Downey, jr.", "Gwyneth Paltrow", "Terrence Howard", "Jeff Bridges"],
-    "plot" : "Placeholder",
+    "director" : "Jon Favreau",
     "poster" : "iron-man.jpg",
     "still_image" : "placeholder"
   },
@@ -12,7 +12,7 @@
     "title" : "The Incredible Hulk",
     "year" : "2008",
     "cast" : ["Edward Norton", "William Hurt", "Liv Tyler", "Tim Roth"],
-    "plot" : "Placeholder",
+    "director" : "Louis Leterrier",
     "poster" : "the-incredible-hulk.jpg",
     "still_image" : "placeholder"
   },
@@ -21,7 +21,7 @@
     "title" : "Iron Man 2",
     "year" : "2010",
     "cast" : ["Robert Downey, jr.", "Gwyneth Paltrow", "Don Cheadle", "Scarlett Johanson", "Sam Rockwell", "Mickey Rourke", "Samuel L. Jackson"],
-    "plot" : "Placeholder",
+    "director" : "Jon Favreau",
     "poster" : "iron-man-2.jpg",
     "still_image" : "placeholder"
   },
@@ -30,7 +30,7 @@
     "title" : "Thor",
     "year" : "2011",
     "cast" : ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Kat Dennings", "Stellan Skarsgard", "Anthony Hopkins"],
-    "plot" : "Placeholder",
+    "director" : "Kenneth Branagh",
     "poster" : "thor.jpg",
     "still_image" : "placeholder"
   },
@@ -39,7 +39,7 @@
     "title" : "Captain America: The First Avenger",
     "year" : "2011",
     "cast" : ["Tony Stark", "Chris Evans", "Hayley Atwell", "Tommy Lee Jones", "Toby Jones", "Dominic Cooper", "Sebastian Stan", "Hugo Weaving", "Stanley Tucci"],
-    "plot" : "Placeholder",
+    "director" : "Joe Johnston",
     "poster" : "captain-america-the-first-avenger.jpg",
     "still_image" : "placeholder"
   },
@@ -48,7 +48,7 @@
     "title" : "The Avengers",
     "year" : "2012",
     "cast" : ["Robert Downey, jr.", "Chris Evans", "Chris Hemsworth", "Scarlett Johanson", "Mark Ruffalo", "Jeremy Renner", "Samuel L. Jackson", "Tom Hiddleston"],
-    "plot" : "Placeholder",
+    "director" : "Joss Whedon",
     "poster" : "avengers.jpg",
     "still_image" : "placeholder"
   },
@@ -57,7 +57,7 @@
     "title" : "Iron Man 3",
     "year" : "2013",
     "cast" : ["Robert Downey, jr.", "Gwyneth Paltrow", "Don Cheadle", "Guy Pearce", "Rebecca Hall", "Ben Kingsley"],
-    "plot" : "Placeholder",
+    "director" : "Shane Black",
     "poster" : "iron-man-3.jpg",
     "still_image" : "placeholder"
   },
@@ -66,7 +66,7 @@
     "title" : "Thor: The Dark World",
     "year" : "2013",
     "cast" : ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Kat Dennings", "Stellan Skarsgard", "Anthony Hopkins", "Rene Russo"],
-    "plot" : "Placeholder",
+    "director" : "Alan Taylor",
     "poster" : "thor-the-dark-world.jpg",
     "still_image" : "placeholder"
   },
@@ -75,7 +75,7 @@
     "title" : "Captain America: The Winter Soldier",
     "year" : "2014",
     "cast" : ["Chris Evans", "Scarlett Johanson", "Samuel L. Jackson", "Anthony Mackie", "Robert Redford", "Sebastian Stan"],
-    "plot" : "Placeholder",
+    "director" : "Anthony Russo and Joe Russo",
     "poster" : "captain-america-the-winter-soldier.jpg",
     "still_image" : "placeholder"
   },
@@ -84,7 +84,7 @@
     "title" : "Guardians of the Galaxy",
     "year" : "2014",
     "cast" : ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Lee Pace", "Karen Gillan", "Michael Rooker"],
-    "plot" : "Placeholder",
+    "director" : "James Gunn",
     "poster" : "guardians-of-the-galaxy.jpg",
     "still_image" : "placeholder"
   },
@@ -93,7 +93,7 @@
     "title" : "Avengers: Age of Ultron",
     "year" : "2015",
     "cast" : ["Robert Downey, jr.", "Chris Evans", "Chris Hemsworth", "Scarlett Johanson", "Mark Ruffalo", "Jeremy Renner", "Elizabeth Olsen", "Aaron Taylor-Johnson", "James Spader"],
-    "plot" : "Placeholder",
+    "director" : "Joss Whedon",
     "poster" : "avengers-age-of-ultron.jpg",
     "still_image" : "placeholder"
   },
@@ -102,7 +102,7 @@
     "title" : "Ant-Man",
     "year" : "2015",
     "cast" : ["Paul Rudd", "Michael Pena", "Corey Stoll", "Evangeline Lilly", "Michael Douglas"],
-    "plot" : "Placeholder",
+    "director" : "Peyton Reed",
     "poster" : "ant-man.jpg",
     "still_image" : "placeholder"
   },
@@ -111,7 +111,7 @@
     "title" : "Captain America: Civil War",
     "year" : "2016",
     "cast" : ["Chris Evans", "Robert Downey, jr.", "Scarlett Johanson", "Jeremy Renner", "Elizabeth Olsen", "Sebastian Stan", "Anthony Mackie", "Tom Holland", "Paul Rudd", "Chadwick Boseman", "Daniel Bruhl"],
-    "plot" : "Placeholder",
+    "director" : "Anthony Russo and Joe Russo",
     "poster" : "captain-america-civil-war.jpg",
     "still_image" : "placeholder"
   },
@@ -120,7 +120,7 @@
     "title" : "Doctor Strange",
     "year" : "2016",
     "cast" : ["Benedict Cumberbatch", "Chiwetel Ejiofor", "Benedict Wong", "Rachel McAdams", "Tilda Swinton"],
-    "plot" : "Placeholder",
+    "director" : "Scott Derrickson",
     "poster" : "doctor-strange.jpg",
     "still_image" : "placeholder"
   },
@@ -129,7 +129,7 @@
     "title" : "Guardians of the Galaxy, Vol. 2",
     "year" : "2017",
     "cast" : ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Kurt Russell", "Karen Gillan", "Michael Rooker"],
-    "plot" : "Placeholder",
+    "director" : "James Gunn",
     "poster" : "guardians-of-the-galaxy-vol2.jpg",
     "still_image" : "placeholder"
   },
@@ -138,7 +138,7 @@
     "title" : "Spider-Man: Homecoming",
     "year" : "2017",
     "cast" : ["Tom Holland", "Michael Keaton", "Marisa Tomei", "Robert Downey, jr.", "Zendaya", "Jon Favreau"],
-    "plot" : "Placeholder",
+    "director" : "Jon Watts",
     "poster" : "spiderman-homecoming.jpg",
     "still_image" : "placeholder"
   },
@@ -147,7 +147,7 @@
     "title" : "Thor: Ragnarok",
     "year" : "2017",
     "cast" : ["Chris Hemsworth", "Mark Ruffalo", "Tessa Thompson", "Tom Hiddleston", "Cate Blanchett", "Jeff Goldblum"],
-    "plot" : "Placeholder",
+    "director" : "Taika Waititi",
     "poster" : "thor-ragnarok.jpg",
     "still_image" : "placeholder"
   },
@@ -156,7 +156,7 @@
     "title" : "Black Panther",
     "year" : "2018",
     "cast" : ["Chadwick Boseman", "Lupita Nyong'o", "Danai Gurira", "Letitia Wright", "Martin Freeman", "Andy Serkis", "Angela Bassett", "Forrest Whitaker", "Michael B. Jordan"],
-    "plot" : "Placeholder",
+    "director" : "Ryan Coogler",
     "poster" : "black-panther.jpg",
     "still_image" : "placeholder"
   },
@@ -165,7 +165,7 @@
     "title" : "Avengers: Infinity War",
     "year" : "2018",
     "cast" : ["Chris Evans", "Robert Downey, jr.", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johanson", "Elizabeth Olsen", "Paul Bettany", "Sebastian Stan", "Anthony Mackie", "Tom Holland", "Chadwick Boseman", "Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Karen Gillan", "Josh Brolin"],
-    "plot" : "Placeholder",
+    "director" : "Anthony Russo and Joe Russo",
     "poster" : "avengers-infinity-war.jpg",
     "still_image" : "placeholder"
   }]

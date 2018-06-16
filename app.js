@@ -22,7 +22,7 @@
     let movies = moviesJSON.movies;
     res.render('home', {
       title : "MCU App",
-      movies : movies
+      movies : movies,
     });
   });
   //movies
