@@ -27,8 +27,16 @@
   });
   //movies
   app.get('/movies/:title?', function(req, res) {
-    let movieTitle = req.params.title;
-    res.send("This is the page for " + movieTitle);
+    let movieSearch = req.params.title + '.jpg';
+    for (i = 0;i < moviesJSON.movies.length; i++){
+      if (moviesJSON.movies[i].poster == movieSearch) {
+      break
+      }
+    }
+    res.render('movie', {
+      title: moviesJSON.movies[i].title,
+      movie: moviesJSON.movies[i]
+    });
   });
   //notFound
   app.get('*', function(req, res) {
