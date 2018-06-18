@@ -36,7 +36,6 @@
       }
     }
     res.render('movie', {
-      // title: moviesJSON.movies[i].title,
       movie: moviesJSON.movies[i]
     });
   });
