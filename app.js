@@ -12,6 +12,7 @@
   app.set('view engine', 'handlebars');
   app.engine('handlebars', expressHandlebars());
 
+
   //Static path
   app.use(express.static(path.join(__dirname, 'public')));
 
@@ -25,6 +26,7 @@
       movies : movies,
     });
   });
+
   //movies
   app.get('/movies/:title?', function(req, res) {
     let movieSearch = req.params.title + '.jpg';
@@ -38,6 +40,7 @@
       movie: moviesJSON.movies[i]
     });
   });
+
   //notFound
   app.get('*', function(req, res) {
     res.send("<h1>This is not the page you are looking for</h1>");

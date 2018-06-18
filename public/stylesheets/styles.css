@@ -1,0 +1,16 @@
+
+  /*Movies Single Pages*/
+
+  .column-body {
+    display: flex;
+    margin-top: 5vw;
+    margin-left: 3vw;
+  }
+
+  .column-left {
+    margin-right: 3vw;
+  }
+
+  .single-poster {
+    width: 20vw;
+  }

@@ -3,18 +3,25 @@
   <html>
     <head>
       <meta charset="utf-8">
-      <title>{{title}} - Home</title>
+      <link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">
+      <title>MCU-App - {{title}}</title>
     </head>
     <body>
         {{#movie}}
-        <h1>{{title}}</h1>
-        <h4> dir. {{director}}</h4>
-        {{#each cast}}
-        <ul>
-          <li>{{this}}</li>
-        </ul>
-        {{/each}}
-        <img src="/images/{{poster}}" class="poster">
+        <div class="column-body">
+          <div class="column-left">
+            <img class="single-poster" src="/images/{{poster}}" class="poster">
+          </div>
+          <div class="column-right">
+            <h1>{{title}}</h1>
+            <h4> dir. {{director}}</h4>
+            {{#each cast}}
+            <ul>
+              <li>{{this}}</li>
+            </ul>
+            {{/each}}
+          </div>
+        </div>
         {{/movie}}
     </body>
   </html>
