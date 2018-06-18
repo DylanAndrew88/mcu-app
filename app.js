@@ -29,14 +29,14 @@
 
   //movies
   app.get('/movies/:title?', function(req, res) {
-    let movieSearch = req.params.title + '.jpg';
+    let movieSearch = req.params.title;
     for (i = 0;i < moviesJSON.movies.length; i++){
-      if (moviesJSON.movies[i].poster == movieSearch) {
+      if (moviesJSON.movies[i].link == movieSearch) {
       break
       }
     }
     res.render('movie', {
-      title: moviesJSON.movies[i].title,
+      // title: moviesJSON.movies[i].title,
       movie: moviesJSON.movies[i]
     });
   });

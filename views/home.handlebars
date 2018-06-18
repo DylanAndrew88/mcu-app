@@ -12,8 +12,8 @@
         <div class="movies-display">
         {{#movies}}
           <div class="movie-select">
-            <h4>{{title}} ({{year}})</h4>
-            <img class="poster-home" src="/images/{{poster}}">
+            <h4><a class="title" href="/movies/{{link}}">{{title}} ({{year}})</a></h4>
+            <img class="poster-home" src="/images/{{link}}.jpg">
           </div>
         {{/movies}}
         </div>
