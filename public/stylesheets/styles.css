@@ -1,6 +1,35 @@
 
-  /*Movies Single Pages*/
+  /*Home Page*/
+  .title {
+    margin-top: 3vw;
+    margin-left: 2vw;
+    margin-bottom: 3vw;
+  }
 
+  .movies-header {
+    margin-left: 3vw;
+    margin-bottom: 3vw;
+  }
+
+  .movies-display {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90vw;
+    margin-left: 5vw;
+  }
+
+  .movie-select {
+    width: 20vw;
+    margin-right: 10vw;
+    margin-bottom: 5vw;
+  }
+
+  .poster-home {
+    width: 15vw;
+  }
+
+
+  /*Movies Single Pages*/
   .column-body {
     display: flex;
     margin-top: 5vw;

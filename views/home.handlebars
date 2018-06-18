@@ -3,19 +3,19 @@
   <html>
     <head>
       <meta charset="utf-8">
+      <link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">
       <title>{{title}} - Home</title>
     </head>
     <body>
-      <h1>{{title}}</h1>
+      <h1 class="title">{{title}}</h1>
+      <h3 class="movies-header">Movies (2008-present) - </h3>
+        <div class="movies-display">
         {{#movies}}
-        <h1>{{title}}</h1>
-        <h4> dir. {{director}}</h4>
-        {{#each cast}}
-        <ul>
-          <li>{{this}}</li>
-        </ul>
-        {{/each}}
-        <img src="/images/{{poster}}" class="poster">
+          <div class="movie-select">
+            <h4>{{title}} ({{year}})</h4>
+            <img class="poster-home" src="/images/{{poster}}">
+          </div>
         {{/movies}}
+        </div>
     </body>
   </html>
