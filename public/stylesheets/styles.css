@@ -1,31 +1,51 @@
 
   /*Home Page*/
-  .title {
+
+  body {
+    background-color: #E2E2E2;
+  }
+
+  .page-title {
     margin-top: 3vw;
     margin-left: 2vw;
-    margin-bottom: 3vw;
+    margin-bottom: 5vw;
+    font-family: 'Bangers', cursive;
+    font-size: 5.5vw;
+    color: #E51F16;
+    text-shadow: .2vw .2vw #17B5D5;
   }
 
   .movies-header {
-    margin-left: 3vw;
+    margin-left: 7vw;
     margin-bottom: 3vw;
+    font-family: 'Quantico', sans-serif;
+    font-size: 2vw;
   }
 
   .movies-display {
     display: flex;
     flex-wrap: wrap;
     width: 90vw;
-    margin-left: 5vw;
+    margin-left: 12vw;
   }
 
   .movie-select {
-    width: 20vw;
-    margin-right: 10vw;
+    width: 22vw;
+    margin-right: 7vw;
     margin-bottom: 5vw;
+  }
+
+  .movie-title {
+    font-family: 'Francois One', sans-serif;
+    font-size: 1.23vw;
+    color: #1531A2;
   }
 
   .poster-home {
     width: 15vw;
+    border: 2px solid black;
+    border-radius: .5vw .5vw .5vw .5vw;
+    box-shadow: .25vw .25vw .25vw;
   }
 
 
