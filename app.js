@@ -22,8 +22,7 @@
   app.get('/', function(req, res) {
     let movies = moviesJSON.movies;
     res.render('home', {
-      title : "MCU App",
-      movies : movies,
+      movies : movies
     });
   });
 
@@ -36,7 +35,8 @@
       }
     }
     res.render('movie', {
-      movie: moviesJSON.movies[i]
+      movie: moviesJSON.movies[i],
+      title: moviesJSON.movies[i].title
     });
   });
 
@@ -47,6 +47,6 @@
 
 
   //Port
-  app.listen(3000, function() {
-    console.log("listening on localhost:3000")
+  app.listen(3003, function() {
+    console.log("listening on localhost:3003")
   });

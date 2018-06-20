@@ -3,25 +3,27 @@
   <html>
     <head>
       <meta charset="utf-8">
+      <link href="https://fonts.googleapis.com/css?family=Bangers|Francois+One|Quantico|Russo+One" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">
       <title>MCU-App - {{title}}</title>
     </head>
     <body>
-        {{#movie}}
-        <div class="column-body">
-          <div class="column-left">
-            <img class="single-poster" src="/images/{{link}}.jpg">
-          </div>
-          <div class="column-right">
-            <h1>{{title}}</h1>
-            <h4> dir. {{director}}</h4>
-            {{#each cast}}
-            <ul>
-              <li>{{this}}</li>
-            </ul>
-            {{/each}}
-          </div>
+      {{> banner}}
+      {{#movie}}
+      <div class="column-body">
+        <div class="column-left">
+          <img class="single-poster" src="/images/{{link}}.jpg">
         </div>
-        {{/movie}}
+        <div class="column-right">
+          <h1>{{title}}</h1>
+          <h4> dir. {{director}}</h4>
+          {{#each cast}}
+          <ul>
+            <li>{{this}}</li>
+          </ul>
+          {{/each}}
+        </div>
+      </div>
+      {{/movie}}
     </body>
   </html>
