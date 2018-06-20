@@ -3,35 +3,55 @@
 
   body {
     background-color: #E2E2E2;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
   }
 
-  .page-title {
-    margin-top: 3vw;
-    margin-left: 2vw;
-    margin-bottom: 5vw;
+  .title-container {
+    background-color: #1AE0E7;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 2vw;
+    padding-left: 4vw;
+    padding-bottom: 1vw;
+  }
+
+  .main-title {
+    margin-top: 0%;
+    margin-bottom: 0%;
     font-family: 'Bangers', cursive;
     font-size: 5.5vw;
     color: #E51F16;
-    text-shadow: .2vw .2vw #17B5D5;
+    text-shadow: .2vw .2vw white;
+  }
+
+  .subtitle-container {
+    background-color: black;
+    margin-top: 0%;
+    margin-bottom: 4vw;
   }
 
   .movies-header {
-    margin-left: 7vw;
-    margin-bottom: 3vw;
+    margin-top: 0%;
+    margin-left: 8vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
     font-family: 'Quantico', sans-serif;
     font-size: 2vw;
+    color: #F3F30F;
   }
 
   .movies-display {
     display: flex;
     flex-wrap: wrap;
-    width: 90vw;
-    margin-left: 12vw;
+    width: 85vw;
+    margin-left: 13vw;
   }
 
   .movie-select {
     width: 22vw;
-    margin-right: 7vw;
+    margin-right: 6vw;
     margin-bottom: 5vw;
   }
 
