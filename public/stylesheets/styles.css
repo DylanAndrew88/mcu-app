@@ -67,7 +67,11 @@
     width: 15vw;
     border: 2px solid black;
     border-radius: .5vw .5vw .5vw .5vw;
-    box-shadow: .25vw .25vw .25vw;
+    box-shadow: .35vw .35vw .35vw #353535;
+  }
+
+  .poster-home:hover {
+    width: 18vw;
   }
 
 
