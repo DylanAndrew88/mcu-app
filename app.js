@@ -34,9 +34,13 @@
       break
       }
     }
+    // let cast = moviesJSON.movies[i].cast;
+    // for (i = 0;i < cast.length; i++) {
+    //   console.log(cast[i])
+    // }
     res.render('movie', {
       movie: moviesJSON.movies[i],
-      title: moviesJSON.movies[i].title
+      title: moviesJSON.movies[i].title,
     });
   });
 

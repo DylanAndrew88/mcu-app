@@ -38,7 +38,7 @@
   {
     "title" : "Captain America: The First Avenger",
     "year" : "2011",
-    "cast" : ["Tony Stark", "Chris Evans", "Hayley Atwell", "Tommy Lee Jones", "Toby Jones", "Dominic Cooper", "Sebastian Stan", "Hugo Weaving", "Stanley Tucci"],
+    "cast" : ["Chris Evans", "Hayley Atwell", "Tommy Lee Jones", "Toby Jones", "Dominic Cooper", "Sebastian Stan", "Hugo Weaving", "Stanley Tucci"],
     "director" : "Joe Johnston",
     "link" : "captain-america-the-first-avenger",
     "still_image" : "placeholder"
@@ -167,6 +167,15 @@
     "cast" : ["Chris Evans", "Robert Downey, jr.", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johanson", "Elizabeth Olsen", "Paul Bettany", "Sebastian Stan", "Anthony Mackie", "Tom Holland", "Chadwick Boseman", "Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Karen Gillan", "Josh Brolin"],
     "director" : "Anthony Russo and Joe Russo",
     "link" : "avengers-infinity-war",
+    "still_image" : "placeholder"
+  },
+
+  {
+    "title" : "Ant-Man and the Wasp",
+    "year" : "2018",
+    "cast" : ["Paul Rudd", "Michael Pena", "Evangeline Lilly", "Michael Douglas", "Walton Goggins", "Lawrence Fishburne", "Michelle Pfeiffer"],
+    "director" : "Peyton Reed",
+    "link" : "ant-man-and-the-wasp",
     "still_image" : "placeholder"
   }]
 

@@ -1,6 +1,5 @@
 
   /*Home Page*/
-
   body {
     background-color: #E2E2E2;
     margin-left: 0%;
@@ -34,7 +33,7 @@
     width: 65vw;
   }
 
-  .movies-header {
+  .subtitle {
     margin-top: 0%;
     margin-left: 8vw;
     padding-top: 1vw;
@@ -57,7 +56,7 @@
     margin-bottom: 5vw;
   }
 
-  .movie-title {
+  .movie-title-home {
     font-family: 'Francois One', sans-serif;
     font-size: 1.23vw;
     color: #1531A2;
@@ -79,7 +78,7 @@
   .column-body {
     display: flex;
     margin-top: 5vw;
-    margin-left: 3vw;
+    margin-left: 10vw;
   }
 
   .column-left {
@@ -87,5 +86,39 @@
   }
 
   .single-poster {
-    width: 20vw;
+    width: 25vw;
+    margin-top: -2vw;
+  }
+
+  .column-right {
+    font-family: 'Francois One', sans-serif;
+  }
+
+  .movie-title-single {
+    font-size: 5.5vw;
+    margin-top: -2vw;
+    margin-bottom: 0%;
+    margin-left: 1vw;
+    display: block;
+    width: 50vw;
+    text-decoration: underline;
+  }
+
+  .directed-by {
+    font-size: 2vw;
+    margin-top: 0%;
+    margin-left: 3vw;
+  }
+
+  .starring {
+    font-size: 2.3vw;
+    margin-top: -.5vw;
+    margin-bottom: 1vw;
+    margin-left: 8vw;
+  }
+
+  .cast-list {
+    font-size: 1.4vw;
+    margin-top: 0%;
+    margin-left: 8vw;
   }

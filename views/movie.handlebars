@@ -15,13 +15,12 @@
           <img class="single-poster" src="/images/{{link}}.jpg">
         </div>
         <div class="column-right">
-          <h1>{{title}}</h1>
-          <h4> dir. {{director}}</h4>
-          {{#each cast}}
-          <ul>
-            <li>{{this}}</li>
-          </ul>
-          {{/each}}
+          <div class="movie-single-header">
+            <h1 class="movie-title-single">{{title}}</h1>
+            <h4 class="directed-by"> Dir. {{director}}</h4>
+          </div>
+          <h4 class="starring">Starring:</h4>
+          <h6 class="cast-list">{{cast}}</h6>
         </div>
       </div>
       {{/movie}}
