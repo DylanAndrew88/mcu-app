@@ -88,6 +88,9 @@
   .single-poster {
     width: 25vw;
     margin-top: -2.5vw;
+    border: 4px solid black;
+    border-radius: .5vw .5vw .5vw .5vw;
+    box-shadow: .35vw .35vw .35vw #353535;
   }
 
   .column-right {
@@ -117,7 +120,7 @@
   }
 
   .cast-list {
-    width: 47vw;
+    width: 41vw;
     font-size: 1.7vw;
     margin-top: 0%;
     margin-left: 8vw;
