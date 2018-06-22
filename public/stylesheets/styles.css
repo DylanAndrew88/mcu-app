@@ -87,7 +87,7 @@
 
   .single-poster {
     width: 25vw;
-    margin-top: -2vw;
+    margin-top: -2.5vw;
   }
 
   .column-right {
@@ -95,13 +95,12 @@
   }
 
   .movie-title-single {
-    font-size: 5.5vw;
+    font-size: 5.2vw;
     margin-top: -2vw;
     margin-bottom: 0%;
     margin-left: 1vw;
     display: block;
-    width: 50vw;
-    text-decoration: underline;
+    width: 60vw;
   }
 
   .directed-by {
@@ -118,7 +117,8 @@
   }
 
   .cast-list {
-    font-size: 1.4vw;
+    width: 47vw;
+    font-size: 1.7vw;
     margin-top: 0%;
     margin-left: 8vw;
   }

@@ -34,13 +34,15 @@
       break
       }
     }
-    // let cast = moviesJSON.movies[i].cast;
-    // for (i = 0;i < cast.length; i++) {
-    //   console.log(cast[i])
-    // }
+    let cast = moviesJSON.movies[i].cast;
+    for (v = 0;v < cast.length; v++) {
+      if (v > 0) {
+        cast[v] = " " + cast[v];
+      }
+    }
     res.render('movie', {
       movie: moviesJSON.movies[i],
-      title: moviesJSON.movies[i].title,
+      title: moviesJSON.movies[i].title
     });
   });
 
@@ -51,6 +53,6 @@
 
 
   //Port
-  app.listen(3003, function() {
-    console.log("listening on localhost:3003")
+  app.listen(3005, function() {
+    console.log("listening on localhost:3005")
   });
