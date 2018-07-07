@@ -5,7 +5,8 @@
     "cast" : ["Robert Downey, jr.", "Gwyneth Paltrow", "Terrence Howard", "Jeff Bridges"],
     "director" : "Jon Favreau",
     "link" : "iron-man",
-    "still_image" : "placeholder"
+    "rt-score" : "94%",
+    "rt-blurb" : "Powered by Robert Downey Jr.'s vibrant charm, Iron Man turbo-charges the superhero genre with a deft intelligence and infectious sense of fun."
   },
 
   {
@@ -14,7 +15,8 @@
     "cast" : ["Ed Norton", "William Hurt", "Liv Tyler", "Tim Roth"],
     "director" : "Louis Leterrier",
     "link" : "the-incredible-hulk",
-    "still_image" : "placeholder"
+    "rt-score" : "67%",
+    "rt-blurb" : "The Incredible Hulk may not be quite the smashing success that fans of Marvel's raging behemoth might hope for, but it offers more than enough big green action to make up for its occasionally puny narrative."
   },
 
   {
@@ -23,7 +25,8 @@
     "cast" : ["Robert Downey, jr.", "Gwyneth Paltrow", "Don Cheadle", "Scarlett Johanson", "Sam Rockwell", "Mickey Rourke", "Samuel L. Jackson"],
     "director" : "Jon Favreau",
     "link" : "iron-man-2",
-    "still_image" : "placeholder"
+    "rt-score" : "73%",
+    "rt-blurb" : "It isn't quite the breath of fresh air that Iron Man was, but this sequel comes close with solid performances and an action-packed plot."
   },
 
   {
@@ -32,7 +35,8 @@
     "cast" : ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Kat Dennings", "Stellan Skarsgard", "Anthony Hopkins"],
     "director" : "Kenneth Branagh",
     "link" : "thor",
-    "still_image" : "placeholder"
+    "rt-score" : "77%",
+    "rt-blurb" : "A dazzling blockbuster that tempers its sweeping scope with wit, humor, and human drama, Thor is mighty Marvel entertainment."
   },
 
   {
@@ -41,7 +45,8 @@
     "cast" : ["Chris Evans", "Hayley Atwell", "Tommy Lee Jones", "Toby Jones", "Dominic Cooper", "Sebastian Stan", "Hugo Weaving", "Stanley Tucci"],
     "director" : "Joe Johnston",
     "link" : "captain-america-the-first-avenger",
-    "still_image" : "placeholder"
+    "rt-score" : "79%",
+    "rt-blurb" : "With plenty of pulpy action, a pleasantly retro vibe, and a handful of fine performances, Captain America is solidly old-fashioned blockbuster entertainment."
   },
 
   {
@@ -50,7 +55,8 @@
     "cast" : ["Robert Downey, jr.", "Chris Evans", "Chris Hemsworth", "Scarlett Johanson", "Mark Ruffalo", "Jeremy Renner", "Samuel L. Jackson", "Tom Hiddleston"],
     "director" : "Joss Whedon",
     "link" : "avengers",
-    "still_image" : "placeholder"
+    "rt-score" : "92%",
+    "rt-blurb" : "Thanks to a script that emphasizes its heroes' humanity and a wealth of superpowered set pieces, The Avengers lives up to its hype and raises the bar for Marvel at the movies."
   },
 
   {
@@ -59,7 +65,8 @@
     "cast" : ["Robert Downey, jr.", "Gwyneth Paltrow", "Don Cheadle", "Guy Pearce", "Rebecca Hall", "Ben Kingsley"],
     "director" : "Shane Black",
     "link" : "iron-man-3",
-    "still_image" : "placeholder"
+    "rt-score" : "80%",
+    "rt-blurb" : "With the help of its charismatic lead, some impressive action sequences, and even a few surprises, Iron Man 3 is a witty, entertaining adventure and a strong addition to the Marvel canon."
   },
 
   {
@@ -68,7 +75,8 @@
     "cast" : ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Kat Dennings", "Stellan Skarsgard", "Anthony Hopkins", "Rene Russo"],
     "director" : "Alan Taylor",
     "link" : "thor-the-dark-world",
-    "still_image" : "placeholder"
+    "rt-score" : "66%",
+    "rt-blurb" : "It may not be the finest film to come from the Marvel Universe, but Thor: The Dark World still offers plenty of the humor and high-stakes action that fans have come to expect."
   },
 
   {
@@ -77,7 +85,8 @@
     "cast" : ["Chris Evans", "Scarlett Johanson", "Samuel L. Jackson", "Anthony Mackie", "Robert Redford", "Sebastian Stan"],
     "director" : "Anthony Russo and Joe Russo",
     "link" : "captain-america-the-winter-soldier",
-    "still_image" : "placeholder"
+    "rt-score" : "89%",
+    "rt-blurb" : "Suspenseful and politically astute, Captain America: The Winter Soldier is a superior entry in the Avengers canon and is sure to thrill Marvel diehards."
   },
 
   {
@@ -86,7 +95,8 @@
     "cast" : ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Lee Pace", "Karen Gillan", "Michael Rooker"],
     "director" : "James Gunn",
     "link" : "guardians-of-the-galaxy",
-    "still_image" : "placeholder"
+    "rt-score" : "91%",
+    "rt-blurb" : "Guardians of the Galaxy is just as irreverent as fans of the frequently zany Marvel comic would expect -- as well as funny, thrilling, full of heart, and packed with visual splendor."
   },
 
   {
@@ -95,7 +105,8 @@
     "cast" : ["Robert Downey, jr.", "Chris Evans", "Chris Hemsworth", "Scarlett Johanson", "Mark Ruffalo", "Jeremy Renner", "Elizabeth Olsen", "Aaron Taylor-Johnson", "James Spader"],
     "director" : "Joss Whedon",
     "link" : "avengers-age-of-ultron",
-    "still_image" : "placeholder"
+    "rt-score" : "75%",
+    "rt-blurb" : "Exuberant and eye-popping, Avengers: Age of Ultron serves as an overstuffed but mostly satisfying sequel, reuniting its predecessor's unwieldy cast with a few new additions and a worthy foe."
   },
 
   {
@@ -104,7 +115,8 @@
     "cast" : ["Paul Rudd", "Michael Pena", "Corey Stoll", "Evangeline Lilly", "Michael Douglas"],
     "director" : "Peyton Reed",
     "link" : "ant-man",
-    "still_image" : "placeholder"
+    "rt-score" : "82%",
+    "rt-blurb" : "Led by a charming performance from Paul Rudd, Ant-Man offers Marvel thrills on an appropriately smaller scale -- albeit not as smoothly as its most successful predecessors."
   },
 
   {
@@ -113,7 +125,8 @@
     "cast" : ["Chris Evans", "Robert Downey, jr.", "Scarlett Johanson", "Jeremy Renner", "Elizabeth Olsen", "Sebastian Stan", "Anthony Mackie", "Tom Holland", "Paul Rudd", "Chadwick Boseman", "Daniel Bruhl"],
     "director" : "Anthony Russo and Joe Russo",
     "link" : "captain-america-civil-war",
-    "still_image" : "placeholder"
+    "rt-score" : "91%",
+    "rt-blurb" : "Captain America: Civil War begins the next wave of Marvel movies with an action-packed superhero blockbuster boasting a decidedly non-cartoonish plot and the courage to explore thought-provoking themes."
   },
 
   {
@@ -122,7 +135,8 @@
     "cast" : ["Benedict Cumberbatch", "Chiwetel Ejiofor", "Benedict Wong", "Rachel McAdams", "Tilda Swinton"],
     "director" : "Scott Derrickson",
     "link" : "doctor-strange",
-    "still_image" : "placeholder"
+    "rt-score" : "89%",
+    "rt-blurb" : "Doctor Strange artfully balances its outré source material against the blockbuster constraints of the MCU, delivering a thoroughly entertaining superhero origin story in the bargain."
   },
 
   {
@@ -131,7 +145,8 @@
     "cast" : ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Kurt Russell", "Karen Gillan", "Michael Rooker"],
     "director" : "James Gunn",
     "link" : "guardians-of-the-galaxy-vol2",
-    "still_image" : "placeholder"
+    "rt-score" : "94%",
+    "rt-blurb" : "Guardians of the Galaxy Vol. 2's action-packed plot, dazzling visuals, and irreverent humor add up to a sequel that's almost as fun -- if not quite as thrillingly fresh -- as its predecessor."
   },
 
   {
@@ -140,7 +155,8 @@
     "cast" : ["Tom Holland", "Michael Keaton", "Marisa Tomei", "Robert Downey, jr.", "Zendaya", "Jon Favreau"],
     "director" : "Jon Watts",
     "link" : "spiderman-homecoming",
-    "still_image" : "placeholder"
+    "rt-score" : "92%",
+    "rt-blurb" : "Spider-Man: Homecoming does whatever a second reboot can, delivering a colorful, fun adventure that fits snugly in the sprawling MCU without getting bogged down in franchise-building."
   },
 
   {
@@ -149,7 +165,8 @@
     "cast" : ["Chris Hemsworth", "Mark Ruffalo", "Tessa Thompson", "Tom Hiddleston", "Cate Blanchett", "Jeff Goldblum"],
     "director" : "Taika Waititi",
     "link" : "thor-ragnarok",
-    "still_image" : "placeholder"
+    "rt-score" : "92%",
+    "rt-blurb" : "Exciting, funny, and above all fun, Thor: Ragnarok is a colorful cosmic adventure that sets a new standard for its franchise -- and the rest of the Marvel Cinematic Universe."
   },
 
   {
@@ -158,7 +175,8 @@
     "cast" : ["Chadwick Boseman", "Lupita Nyong'o", "Danai Gurira", "Letitia Wright", "Martin Freeman", "Andy Serkis", "Angela Bassett", "Forrest Whitaker", "Michael B. Jordan"],
     "director" : "Ryan Coogler",
     "link" : "black-panther",
-    "still_image" : "placeholder"
+    "rt-score" : "97%",
+    "rt-blurb" : "Black Panther elevates superhero cinema to thrilling new heights while telling one of the MCU's most absorbing stories -- and introducing some of its most fully realized characters."
   },
 
   {
@@ -167,7 +185,8 @@
     "cast" : ["Chris Evans", "Robert Downey, jr.", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johanson", "Elizabeth Olsen", "Paul Bettany", "Sebastian Stan", "Anthony Mackie", "Tom Holland", "Chadwick Boseman", "Chris Pratt", "Zoe Saldana", "Dave Bautista", "Bradley Cooper", "Vin Diesel", "Karen Gillan", "Josh Brolin"],
     "director" : "Anthony Russo and Joe Russo",
     "link" : "avengers-infinity-war",
-    "still_image" : "placeholder"
+    "rt-score" : "83%",
+    "rt-blurb" : "Avengers: Infinity War ably juggles a dizzying array of MCU heroes in the fight against their gravest threat yet, and the result is a thrilling, emotionally resonant blockbuster that (mostly) realizes its gargantuan ambitions."
   },
 
   {
@@ -176,7 +195,8 @@
     "cast" : ["Paul Rudd", "Michael Pena", "Evangeline Lilly", "Michael Douglas", "Walton Goggins", "Lawrence Fishburne", "Michelle Pfeiffer"],
     "director" : "Peyton Reed",
     "link" : "ant-man-and-the-wasp",
-    "still_image" : "placeholder"
+    "rt-score" : "86%",
+    "rt-blurb" : "A lighter, brighter superhero movie powered by the effortless charisma of Paul Rudd and Evangeline Lilly, Ant-Man and The Wasp offers a much-needed MCU palate cleanser."
   }]
 
 }

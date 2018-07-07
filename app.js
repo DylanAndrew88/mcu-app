@@ -19,10 +19,11 @@
 
   //Routes
   //home
-  app.get('/', function(req, res) {
+  app.get('/movies', function(req, res) {
     let movies = moviesJSON.movies;
     res.render('home', {
-      movies : movies
+      movies : movies,
+      title: "Movies (2008-president)"
     });
   });
 
@@ -42,7 +43,8 @@
     }
     res.render('movie', {
       movie: moviesJSON.movies[i],
-      title: moviesJSON.movies[i].title
+      title: moviesJSON.movies[i].title,
+      year: moviesJSON.movies[i].year
     });
   });
 

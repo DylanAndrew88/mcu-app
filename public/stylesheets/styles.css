@@ -57,8 +57,9 @@
   }
 
   .movie-title-home {
+    width: 25vw;
     font-family: 'Francois One', sans-serif;
-    font-size: 1.23vw;
+    font-size: 1.35vw;
     color: #1531A2;
   }
 
@@ -98,17 +99,19 @@
   }
 
   .movie-title-single {
-    font-size: 5.2vw;
+    font-size: 4.2vw;
     margin-top: -2vw;
     margin-bottom: 0%;
     margin-left: 1vw;
     display: block;
     width: 60vw;
+    line-height: 5vw;
   }
 
   .directed-by {
     font-size: 2vw;
     margin-top: 0%;
+    margin-bottom: 1.5vw;
     margin-left: 3vw;
   }
 
@@ -116,12 +119,35 @@
     font-size: 2.3vw;
     margin-top: -.5vw;
     margin-bottom: 1vw;
-    margin-left: 8vw;
+    margin-left: 3vw;
   }
 
   .cast-list {
-    width: 41vw;
+    width: 50vw;
     font-size: 1.7vw;
     margin-top: 0%;
-    margin-left: 8vw;
+    margin-left: 4vw;
+    margin-bottom: .5vw;
+  }
+
+  .rt-score {
+    margin-top: 1vw;
+    margin-bottom: -.5vw;
+    margin-left: 3vw;
+    font-size: 2vw;
+  }
+
+  .score-number {
+    font-size: 2.5vw;
+  }
+
+  .underline-sec {
+    text-decoration: underline;
+  }
+
+  .rt-blurb {
+    margin-left: 3vw;
+    font-style: italic;
+    width: 50vw;
+    font-size: 1.35vw;
   }
