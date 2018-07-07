@@ -4,7 +4,7 @@
   "description": "A movie app/comprehensive guide of the Marvel Cinematic Universe",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Dylan Stump",
   "license": "ISC",
