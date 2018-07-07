@@ -57,9 +57,9 @@
   }
 
   .movie-title-home {
-    width: 25vw;
+    width: 27vw;
     font-family: 'Francois One', sans-serif;
-    font-size: 1.35vw;
+    font-size: 1.45vw;
     color: #1531A2;
   }
 
@@ -96,15 +96,16 @@
 
   .column-right {
     font-family: 'Francois One', sans-serif;
+    margin: auto;
   }
 
   .movie-title-single {
-    font-size: 4.2vw;
+    font-size: 4vw;
     margin-top: -2vw;
     margin-bottom: 0%;
     margin-left: 1vw;
     display: block;
-    width: 60vw;
+    width: 55vw;
     line-height: 5vw;
   }
 
@@ -118,7 +119,7 @@
   .starring {
     font-size: 2.3vw;
     margin-top: -.5vw;
-    margin-bottom: 1vw;
+    margin-bottom: 0%;
     margin-left: 3vw;
   }
 
@@ -146,6 +147,7 @@
   }
 
   .rt-blurb {
+    margin-top: .5vw;
     margin-left: 3vw;
     font-style: italic;
     width: 50vw;

@@ -23,7 +23,7 @@
     let movies = moviesJSON.movies;
     res.render('home', {
       movies : movies,
-      title: "Movies (2008-president)"
+      title: "Movies (2008-present)"
     });
   });
 
