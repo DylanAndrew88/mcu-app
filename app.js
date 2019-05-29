@@ -6,7 +6,7 @@
 
   const app = express();
   const path = require('path');
-  const port = process.env.PORT || 3005;
+  const port = process.env.PORT || 3000;
 
 
   //View Engine
@@ -57,5 +57,5 @@
 
   //Port
   app.listen(port, function() {
-    console.log("listening on localhost:3005")
+    console.log("listening on localhost:3000")
   });

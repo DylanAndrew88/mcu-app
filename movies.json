@@ -197,6 +197,26 @@
     "link" : "ant-man-and-the-wasp",
     "rt-score" : "86%",
     "rt-blurb" : "A lighter, brighter superhero movie powered by the effortless charisma of Paul Rudd and Evangeline Lilly, Ant-Man and The Wasp offers a much-needed MCU palate cleanser."
+  },
+
+  {
+    "title" : "Captain Marvel",
+    "year" : "2019",
+    "cast" : ["Brie Larson", "Jude Law", "Ben Mendelsohn", "Samuel L. Jackson", "Djimon Hounsou", "Lee Pace", "Annette Bening"],
+    "director" : "Anna Boden and Ryan Fleck",
+    "link" : "captain-marvel",
+    "rt-score" : "78%",
+    "rt-blurb" : "Packed with action, humor, and visual thrills, Captain Marvel introduces the MCU's latest hero with an origin story that makes effective use of the franchise's signature formula."
+  },
+
+  {
+    "title" : "Avengers: Endgame",
+    "year" : "2019",
+    "cast" : ["Chris Evans", "Robert Downey, jr.", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johanson", "Jeremy Renner", "Don Cheadle", "Paul Rudd", "Bradley Cooper", "Brie Larson", "Karen Gillan", "Josh Brolin"],
+    "director" : "Joe Russo and Anthony Russo",
+    "link" : "avengers-endgame",
+    "rt-score" : "95%",
+    "rt-blurb" : "Exciting, entertaining, and emotionally impactful, Avengers: Endgame does whatever it takes to deliver a satisfying finale to Marvel's epic Infinity Saga."
   }]
 
 }
